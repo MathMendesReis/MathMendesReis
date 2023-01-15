@@ -2,7 +2,7 @@
 
 
 - 🔭 Futuro programador Web Full Stack
-- 🌱 Estudando Reac
+- 🌱 Estudando React
 - 😄 Pronouns: ele/dele
 
 

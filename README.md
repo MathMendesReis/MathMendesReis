@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Matheus Mendes 👋
 
 
-- 🔭 Futuro programador Web Full Stack
-- 🌱 Estudando React
+- 🔭 Programador Web Full Stack 
+- 🔭 Análista e desenvolvedor de sistemas
 - 😄 Pronouns: ele/dele
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MathMendesReis&show_icons=true&theme=transparent)

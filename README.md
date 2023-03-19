@@ -1,9 +1,9 @@
-### <center>Olá! Eu sou o Matheus Mendes 👋<center/>
+### Olá! Eu sou o Matheus Mendes 👋
 
 
 ### Desenvolvedor Web Full Stack 
   
-- earth_americas:Estou em São Pedro Da Aldeia - RJ
+- :`earth_americas:` Estou em São Pedro Da Aldeia - RJ
 - 🔭 Análista e desenvolvedor de sistemas
 - 😄 Pronouns: ele/dele
 

@@ -8,6 +8,8 @@
 - 🧠 Typescrip e Node JS
 - 😄 Pronouns: ele/dele
 
+<h1><strong>GitHub stats</strong></h1>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MathMendesReis&show_icons=true&theme=radical)
 
 <h1><strong>Linguagems mais usadas</strong></h1>

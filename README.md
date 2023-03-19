@@ -2,6 +2,8 @@
 
 
 ### Desenvolvedor Web Full Stack 
+  
+- earth_americas:Estou em São Pedro Da Aldeia - RJ
 - 🔭 Análista e desenvolvedor de sistemas
 - 😄 Pronouns: ele/dele
 

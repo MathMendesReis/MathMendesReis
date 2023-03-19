@@ -9,6 +9,9 @@
 - 😄 Pronouns: ele/dele
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MathMendesReis&show_icons=true&theme=radical)
+
+<h1><strong>Linguagems mais usadas</strong></h1>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MathMendesReis&hide_progress=false)](https://github.com/anuraghazra/github-readme-stats)
 
 
@@ -22,6 +25,10 @@
   <a href="https://www.linkedin.com/in/matheus-mendes-4b2734245/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+Gráfico de Commits
+------------------------
+<a href="http://www.github.com/MathMendesReis"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=MathMendesReis&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 
 <div style="display: inline_block"><br>

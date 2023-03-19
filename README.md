@@ -3,8 +3,9 @@
 
 ### Desenvolvedor Web Full Stack 
   
-- :`earth_americas:` Estou em São Pedro Da Aldeia - RJ
-- 🔭 Análista e desenvolvedor de sistemas
+- 🌎 Estou em São Pedro Da Aldeia - RJ
+- 🧑‍💻 Análista e desenvolvedor de sistemas
+- 🧠 Typescrip e Node JS
 - 😄 Pronouns: ele/dele
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MathMendesReis&show_icons=true&theme=transparent)

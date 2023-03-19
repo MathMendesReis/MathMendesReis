@@ -18,7 +18,11 @@ Gráfico de Commits
 ------------------------
 <a href="http://www.github.com/MathMendesReis"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=MathMendesReis&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
- 
+ Streaks totais
+------------------------
+<a href="http://www.github.com/MathMendesReis">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MathMendesReis&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width='100%' />
+</a>
 <div> 
 
   <h1><strong>Contatos</strong></h1>

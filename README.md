@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Matheus Mendes 👋
 
 
-- 🔭 Programador Web Full Stack 
+### Desenvolvedor Web Full Stack 
 - 🔭 Análista e desenvolvedor de sistemas
 - 😄 Pronouns: ele/dele
 

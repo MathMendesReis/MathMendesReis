@@ -8,13 +8,17 @@
 - 🧠 Typescrip e Node JS
 - 😄 Pronouns: ele/dele
 
-<h1><strong>GitHub stats</strong></h1>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MathMendesReis&show_icons=true&theme=radical)
 
 <h1><strong>Linguagems mais usadas</strong></h1>
+------------------------
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MathMendesReis&hide_progress=false)](https://github.com/anuraghazra/github-readme-stats)
+
+<h1><strong>GitHub stats</strong></h1>
+------------------------
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MathMendesReis&show_icons=true&theme=radical)
 
 Gráfico de Commits
 ------------------------

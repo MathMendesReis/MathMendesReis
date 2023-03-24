@@ -17,8 +17,11 @@ Typescript
 💬 Fale comigo sobre:
 
 Desenvolvimento frontend
+
 Desenvolvimento backend
+
 Desenvolvimento full stack
+
 Desenvolvimento Mobile
 
 

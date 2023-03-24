@@ -34,12 +34,13 @@ Desenvolvimento Mobile
 
 😄 Pronomes:
 
-[Adicione seus pronomes aqui, se desejar]
+Ele/Dele
 
 
 ⚡ Curiosidades:
 
-[Adicione algumas curiosidades interessantes sobre você aqui, se desejar]
+Você é um amante de livros e já leu mais de 4 livros neste ano;
+
 
 
 

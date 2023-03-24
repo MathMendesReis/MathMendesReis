@@ -1,12 +1,42 @@
-### Olá! Eu sou o Matheus Mendes 👋
+Olá, eu sou Matheus Mendes!
+
+Olá, eu sou um analista e desenvolvedor de sistemas com uma paixão pela tecnologia e programação. Atualmente, estou cursando Engenharia de Software para aprimorar minhas habilidades e conhecimentos. Além disso, estou participando de um bootcamp web full stack, onde estou aprendendo a desenvolver soluções de ponta a ponta para a web, incluindo front-end, back-end e bancos de dados. Tenho experiência em diversas linguagens de programação, como Java, Python e JavaScript, e estou sempre buscando aprimorar minhas habilidades e aprender novas tecnologias. Estou animado para continuar crescendo em minha carreira como desenvolvedor e contribuir para a comunidade de software.
 
 
-### Desenvolvedor Web Full Stack 
-  
-- 🌎 Estou em São Pedro Da Aldeia - RJ
-- 🧑‍💻 Análista e desenvolvedor de sistemas
-- 🧠 Typescrip e Node JS
-- 😄 Pronouns: ele/dele
+🔭 Trabalhando atualmente em:
+
+Portifolio individual
+Labe e-commerce
+
+
+🌱 Atualmente aprendendo:
+
+Typescript
+
+
+💬 Fale comigo sobre:
+
+Desenvolvimento frontend
+Desenvolvimento backend
+Desenvolvimento full stack
+Desenvolvimento Mobile
+
+
+📫 Como me encontrar:
+
+ <a href="https://www.instagram.com/matheusmendesreis/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "matheusmendesreiss@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/matheus-mendes-4b2734245/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+
+😄 Pronomes:
+
+[Adicione seus pronomes aqui, se desejar]
+
+
+⚡ Curiosidades:
+
+[Adicione algumas curiosidades interessantes sobre você aqui, se desejar]
 
 
 
@@ -33,16 +63,7 @@
 </a>
 <div> 
 
-  <h1><strong>Contatos</strong></h1>
-  
-  <a href="https://www.instagram.com/matheusmendesreis/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "matheusmendesreiss@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/matheus-mendes-4b2734245/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
-
-
-
+ 
 <div style="display: inline_block"><br>
 
   <h1><strong>Habilidades</strong></h1>

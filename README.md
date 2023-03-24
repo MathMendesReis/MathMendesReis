@@ -37,11 +37,11 @@ Desenvolvimento Mobile
 Ele/Dele
 
 
-⚡ Curiosidades:
+<!-- ⚡ Curiosidades:
 
-Você é um amante de livros e já leu mais de 4 livros neste ano;
+Sou um amante de livros e já leu mais de 4 livros neste ano;
 
-
+ -->
 
 
 <h1><strong>Linguagems mais usadas</strong></h1>

@@ -16,13 +16,13 @@ Typescript
 
 💬 Fale comigo sobre:
 
-Desenvolvimento frontend
+🤙 Desenvolvimento frontend
 
-Desenvolvimento backend
+🤙 Desenvolvimento backend
 
-Desenvolvimento full stack
+🤙 Desenvolvimento full stack
 
-Desenvolvimento Mobile
+🤙 Desenvolvimento Mobile
 
 
 📫 Como me encontrar:

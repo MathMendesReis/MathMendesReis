@@ -6,6 +6,7 @@ Olá, eu sou um analista e desenvolvedor de sistemas com uma paixão pela tecnol
 🔭 Trabalhando atualmente em:
 
 Portifolio individual
+
 Labe e-commerce
 
 

@@ -1,6 +1,6 @@
 Olá, eu sou Matheus Mendes!
 
-Olá, eu sou um analista e desenvolvedor de sistemas com uma paixão pela tecnologia e programação. Atualmente, estou cursando Engenharia de Software para aprimorar minhas habilidades e conhecimentos. Além disso, estou participando de um bootcamp web full stack, onde estou aprendendo a desenvolver soluções de ponta a ponta para a web, incluindo front-end, back-end e bancos de dados. Tenho experiência em diversas linguagens de programação, como Java, Python e JavaScript, e estou sempre buscando aprimorar minhas habilidades e aprender novas tecnologias. Estou animado para continuar crescendo em minha carreira como desenvolvedor e contribuir para a comunidade de software.
+Olá, eu sou um analista e desenvolvedor de sistemas com uma paixão pela tecnologia e programação. Atualmente, estou cursando Engenharia de Software para aprimorar minhas habilidades e conhecimentos. Além disso, estou participando de um bootcamp web full stack, onde estou aprendendo a desenvolver soluções de ponta a ponta para a web, incluindo front-end, back-end e bancos de dados. Tenho experiência em JavaScript, e estou sempre buscando aprimorar minhas habilidades e aprender novas tecnologias. Estou animado para continuar crescendo em minha carreira como desenvolvedor e contribuir para a comunidade de software.
 
 
 🔭 Trabalhando atualmente em:
@@ -77,8 +77,6 @@ Sou um amante de livros e já leu mais de 4 livros neste ano;
 
 <div style="text-align: center;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="50" height="50">
   <img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" alt="Styled Components" width="50" height="50">

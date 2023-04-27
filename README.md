@@ -14,7 +14,7 @@ Labe e-commerce
 
 Typescript
 
-Portifolio : [meu_portifolio](https://portfolio-dev-amber-two.vercel.app/)
+Portifolio : [meu_portifolio](https://portifolio-ivcrmaviu-mathmendesreis.vercel.app/)
 
 💬 Fale comigo sobre:
 

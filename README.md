@@ -7,8 +7,6 @@ Olá, eu sou um analista e desenvolvedor de sistemas com uma paixão pela tecnol
 
 Portifolio individual
 
-Labe e-commerce
-
 
 🌱 Atualmente aprendendo:
 
@@ -23,7 +21,6 @@ Typescript
 
 🤙 Desenvolvimento full stack
 
-🤙 Desenvolvimento Mobile
 
 
 📫 Como me encontrar:

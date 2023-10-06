@@ -6,7 +6,6 @@
 
 
 <ul> 
-<li> </li>
 <li> 📖 Estudando Next JS</li>
 <li> 🎥 Adoro ver filmes e series</li>
 </ul>

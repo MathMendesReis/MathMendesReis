@@ -41,8 +41,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/MathMendesReis/MathMendesReis/output/snake.svg" alt="Snake animation" />
-
-###
